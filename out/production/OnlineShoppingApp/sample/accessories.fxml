@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="547.0" prefWidth="374.0" style="-fx-background-color: #eea046;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea editable="false" layoutY="102.0" prefHeight="467.0" prefWidth="400.0" />
+      <Text fill="WHITE" layoutX="46.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Accessories">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Text>
+      <Button fx:id="gotocart2" layoutX="347.0" layoutY="59.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="38.0" style="-fx-border-color: white; -fx-background-color: #eea046;" />
+      <Line endX="-79.60000610351562" endY="1.9999923706054688" layoutX="459.0" layoutY="70.0" startX="-104.0" startY="0.19998931884765625" stroke="WHITE" />
+      <Line endX="-100.0" layoutX="477.0" layoutY="82.0" startX="-96.89291381835938" startY="-9.292900085449219" stroke="WHITE" />
+      <Line endX="-80.4000244140625" endY="-10.707107543945312" layoutX="457.0" layoutY="93.0" startX="-99.4000244140625" startY="-10.707107543945312" stroke="WHITE" />
+      <Line endX="-52.984107971191406" endY="-38.802330017089844" layoutX="401.0" layoutY="107.0" startX="-46.72457504272461" startY="-39.19484329223633" stroke="WHITE" />
+      <Line endX="-100.20001220703125" endY="-30.20001220703125" layoutX="454.0" layoutY="99.0" startX="-97.0" startY="-17.0" stroke="WHITE" />
+      <Circle fill="WHITE" layoutX="361.0" layoutY="87.0" radius="4.0" stroke="WHITE" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="373.0" layoutY="87.0" radius="4.0" stroke="WHITE" strokeType="INSIDE" />
+      <ImageView fitHeight="98.0" fitWidth="93.0" layoutX="258.0" layoutY="119.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="98.0" fitWidth="93.0" layoutX="258.0" layoutY="329.0" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="back6" layoutX="155.0" layoutY="515.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="98.0" style="-fx-background-color: #4fa6a5;" text="Back" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Label layoutX="41.0" layoutY="131.0" prefHeight="18.0" prefWidth="82.0" text="Necklace ALDO" />
+      <Label layoutX="39.0" layoutY="153.0" prefHeight="18.0" prefWidth="93.0" text="200LE" />
+      <Label layoutX="35.0" layoutY="327.0" prefHeight="18.0" prefWidth="82.0" text="Earrings ALDO" />
+      <Button fx:id="button_addtocart14" layoutX="37.0" layoutY="368.0" mnemonicParsing="false" style="-fx-background-color: #eea046;" text="Add to cart" textAlignment="CENTER" textFill="#fafafa" />
+      <Button fx:id="button_addtocart12" layoutX="37.0" layoutY="179.0" mnemonicParsing="false" style="-fx-background-color: #eea046;" text="Add to cart" textAlignment="CENTER" textFill="#fafafa" />
+      <Label layoutX="37.0" layoutY="230.0" prefHeight="18.0" prefWidth="82.0" text="Bracelet ALDO" />
+      <Label layoutX="38.0" layoutY="248.0" prefHeight="18.0" prefWidth="76.0" text="300LE" />
+      <Button fx:id="button_addtocart13" layoutX="38.0" layoutY="274.0" mnemonicParsing="false" style="-fx-background-color: #eea046;" text="Add to cart" textAlignment="CENTER" textFill="#fafafa" />
+      <Label layoutX="35.0" layoutY="422.0" prefHeight="18.0" prefWidth="82.0" text="Anklet ALDO" />
+      <Label layoutX="35.0" layoutY="441.0" prefHeight="18.0" prefWidth="38.0" text="160LE" />
+      <Button fx:id="button_addtocart15" layoutX="37.0" layoutY="463.0" mnemonicParsing="false" style="-fx-background-color: #eea046;" text="Add to cart" textAlignment="CENTER" textFill="#fafafa" />
+      <Label layoutX="262.0" layoutY="131.0" prefHeight="18.0" prefWidth="98.0" text="Necklace Velvet" />
+      <Label layoutX="260.0" layoutY="153.0" prefHeight="18.0" prefWidth="93.0" text="150Le" />
+      <Label layoutX="256.0" layoutY="327.0" prefHeight="18.0" prefWidth="82.0" text="Earrings Velvet" />
+      <Button fx:id="button_addtocart18" layoutX="258.0" layoutY="368.0" mnemonicParsing="false" style="-fx-background-color: #eea046;" text="Add to cart" textAlignment="CENTER" textFill="#fafafa" />
+      <Button fx:id="button_addtocart16" layoutX="258.0" layoutY="179.0" mnemonicParsing="false" style="-fx-background-color: #eea046;" text="Add to cart" textAlignment="CENTER" textFill="#fafafa" />
+      <Label layoutX="258.0" layoutY="230.0" prefHeight="18.0" prefWidth="93.0" text="Bracelet Velvet" />
+      <Label layoutX="259.0" layoutY="248.0" prefHeight="18.0" prefWidth="76.0" text="200LE" />
+      <Button fx:id="button_addtocart17" layoutX="259.0" layoutY="274.0" mnemonicParsing="false" style="-fx-background-color: #eea046;" text="Add to cart" textAlignment="CENTER" textFill="#fafafa" />
+      <Label layoutX="256.0" layoutY="422.0" prefHeight="18.0" prefWidth="82.0" text="Anklet Velvet" />
+      <Label layoutX="259.0" layoutY="441.0" prefHeight="18.0" prefWidth="38.0" text="150LE" />
+      <Button fx:id="button_addtocart19" layoutX="258.0" layoutY="463.0" mnemonicParsing="false" style="-fx-background-color: #eea046;" text="Add to cart" textAlignment="CENTER" textFill="#fafafa" />
+      <Label layoutX="37.0" layoutY="345.0" prefHeight="18.0" prefWidth="76.0" text="150LE" />
+      <Label layoutX="258.0" layoutY="345.0" prefHeight="18.0" prefWidth="76.0" text="100LE" />
+   </children>
+</AnchorPane>

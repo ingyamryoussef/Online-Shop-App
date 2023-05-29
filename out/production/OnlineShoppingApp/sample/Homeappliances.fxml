@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="571.0" prefWidth="392.0" style="-fx-background-color: #eea046;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea editable="false" layoutX="1.0" layoutY="104.0" prefHeight="467.0" prefWidth="397.0" />
+      <Text fill="WHITE" layoutX="36.0" layoutY="69.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Home Appliances">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Text>
+      <Button fx:id="gotofridges" layoutX="48.0" layoutY="221.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="310.0" style="-fx-background-color: #eea046;" text="Fridges" textFill="WHITE">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+      <Button fx:id="gotowashingmachines" layoutX="48.0" layoutY="347.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="310.0" style="-fx-background-color: #eea046;" text="Washing Machines" textFill="WHITE">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+      <Button fx:id="gotocart5" layoutX="337.0" layoutY="63.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="38.0" style="-fx-border-color: white; -fx-background-color: #eea046;" />
+      <Line endX="-77.24761962890625" endY="0.9999923706054688" layoutX="449.0" layoutY="74.0" startX="-104.20001220703125" startY="-1.0000076293945312" stroke="WHITE" />
+      <Line endX="-100.4000244140625" endY="1.9999923706054688" layoutX="467.0" layoutY="86.0" startX="-95.95472717285156" startY="-11.419563293457031" stroke="WHITE" />
+      <Line endX="-79.60000610351562" endY="-10.844947814941406" layoutX="447.0" layoutY="98.0" startX="-98.4000244140625" startY="-10.844947814941406" stroke="WHITE" />
+      <Line endX="-52.984107971191406" endY="-38.802330017089844" layoutX="392.0" layoutY="109.0" startX="-50.56146240234375" startY="-40.60906219482422" stroke="WHITE" />
+      <Line endX="-101.85433959960938" endY="-33.901954650878906" layoutX="444.0" layoutY="103.0" startX="-95.0" startY="-15.0" stroke="WHITE" />
+      <Circle fill="WHITE" layoutX="353.0" layoutY="92.0" radius="4.0" stroke="WHITE" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="363.0" layoutY="92.0" radius="4.0" stroke="WHITE" strokeType="INSIDE" />
+      <Button fx:id="back9" layoutX="154.0" layoutY="478.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="98.0" style="-fx-background-color: #4fa6a5;" text="Back" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

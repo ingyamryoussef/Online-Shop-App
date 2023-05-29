@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="359.0" style="-fx-background-color: #4fa6a5;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fill="WHITE" layoutX="28.0" layoutY="193.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-size: 35 px;" text="Thank you for shopping in E-Mall!" textAlignment="CENTER" wrappingWidth="301.62628173828125" />
+   </children>
+</AnchorPane>

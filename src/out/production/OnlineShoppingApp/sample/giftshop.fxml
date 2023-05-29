@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="537.0" prefWidth="374.0" style="-fx-background-color: #eea046;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" >
+   <children>
+      <TextArea layoutY="94.0" prefHeight="467.0" prefWidth="387.0" />
+      <Text fill="WHITE" layoutX="26.0" layoutY="59.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Our Giftshops">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Text>
+      <Button layoutX="35.0" layoutY="141.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="310.0" style="-fx-background-color: #eea046;" text="Giftshop1" textFill="WHITE">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+      <Button layoutX="38.0" layoutY="249.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="310.0" style="-fx-background-color: #eea046;" text="Giftshop2" textFill="WHITE">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+      <Button layoutX="38.0" layoutY="355.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="310.0" style="-fx-background-color: #eea046;" text="Giftshop3" textFill="WHITE">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+      <Button layoutX="38.0" layoutY="464.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="310.0" style="-fx-background-color: #eea046;" text="Giftshop4" textFill="WHITE">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Button>
+      <Button layoutX="327.0" layoutY="53.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="38.0" style="-fx-border-color: white; -fx-background-color: #eea046;" />
+      <Line endX="-64.94908142089844" endY="5.145316123962402" layoutX="439.0" layoutY="64.0" scaleX="0.5" scaleY="0.5" startX="-120.1817398071289" startY="1.7760035991668701" stroke="WHITE" />
+      <Line endX="-100.57793426513672" endY="4.884889602661133" layoutX="457.0" layoutY="76.0" scaleX="0.5" scaleY="0.5" startX="-95.95472717285156" startY="-11.419563293457031" stroke="WHITE" />
+      <Line endX="-70.23270416259766" endY="-10.844943046569824" layoutX="437.0" layoutY="88.0" scaleX="0.5" scaleY="0.5" startX="-110.70712280273438" startY="-10.707107543945312" stroke="WHITE" />
+      <Line endX="-52.984107971191406" endY="-38.802330017089844" layoutX="381.0" layoutY="102.0" scaleX="0.5" scaleY="0.5" startX="-46.72457504272461" startY="-39.19484329223633" stroke="WHITE" />
+      <Line endX="-103.21533203125" endY="-36.78019714355469" layoutX="434.0" layoutY="93.0" scaleX="0.5" scaleY="0.5" startX="-94.29789733886719" startY="-8.348665237426758" stroke="WHITE" />
+      <Circle fill="WHITE" layoutX="342.0" layoutY="81.0" radius="5.0" scaleX="0.5" scaleY="0.5" stroke="WHITE" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="352.0" layoutY="81.0" radius="5.0" scaleX="0.5" scaleY="0.5" stroke="WHITE" strokeType="INSIDE" />
+   </children>
+</AnchorPane>

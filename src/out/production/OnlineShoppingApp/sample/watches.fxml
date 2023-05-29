@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="537.0" prefWidth="374.0" style="-fx-background-color: #eea046;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Product">
+   <children>
+      <TextArea layoutY="111.0" prefHeight="467.0" prefWidth="395.0" />
+      <Text fill="WHITE" layoutX="27.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Watches">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="136.0" fitWidth="141.0" layoutX="39.0" layoutY="136.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="136.0" fitWidth="141.0" layoutX="226.0" layoutY="136.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="136.0" fitWidth="141.0" layoutX="39.0" layoutY="388.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="136.0" fitWidth="141.0" layoutX="226.0" layoutY="388.0" pickOnBounds="true" preserveRatio="true" />
+      <Button layoutX="337.0" layoutY="63.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="39.0" style="-fx-border-color: white; -fx-background-color: #eea046;" />
+      <Line endX="-64.94908142089844" endY="5.145316123962402" layoutX="449.0" layoutY="74.0" scaleX="0.5" scaleY="0.5" startX="-120.1817398071289" startY="1.7760035991668701" stroke="WHITE" />
+      <Line endX="-100.57793426513672" endY="4.884889602661133" layoutX="467.0" layoutY="86.0" scaleX="0.5" scaleY="0.5" startX="-95.95472717285156" startY="-11.419563293457031" stroke="WHITE" />
+      <Line endX="-70.23270416259766" endY="-10.844943046569824" layoutX="447.0" layoutY="98.0" scaleX="0.5" scaleY="0.5" startX="-110.70712280273438" startY="-10.707107543945312" stroke="WHITE" />
+      <Line endX="-52.984107971191406" endY="-38.802330017089844" layoutX="391.0" layoutY="112.0" scaleX="0.5" scaleY="0.5" startX="-46.72457504272461" startY="-39.19484329223633" stroke="WHITE" />
+      <Line endX="-103.21533203125" endY="-36.78019714355469" layoutX="444.0" layoutY="103.0" scaleX="0.5" scaleY="0.5" startX="-94.29789733886719" startY="-8.348665237426758" stroke="WHITE" />
+      <Circle fill="WHITE" layoutX="352.0" layoutY="91.0" radius="5.0" scaleX="0.5" scaleY="0.5" stroke="WHITE" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="362.0" layoutY="91.0" radius="5.0" scaleX="0.5" scaleY="0.5" stroke="WHITE" strokeType="INSIDE" />
+      <Button fx:id="b1" layoutX="78.0" layoutY="304.0" mnemonicParsing="false" onAction="#addToCart" text="Add To Cart" />
+   </children>
+</AnchorPane>

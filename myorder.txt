@@ -1,0 +1,3 @@
+RolexAnalog	100000.0
+CasioDigital	1000.0
+CasioDigital	1000.0

@@ -1,0 +1,65 @@
+
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	CasioAnalog	Casio	1	Default	500.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	CasioAnalog	Casio	1	Default	500.0	Analog
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	RolexDigital	Rolex	2	Default	500000.0	Digital 
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	RolexDigital	Rolex	2	Default	500000.0	Digital 
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	CasioAnalog	Casio	1	Default	500.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	CasioAnalog	Casio	1	Default	500.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store4	Zarablouse	Zara	22	Default	0.0	Blouse	null	1 piece
+Store4	H&Mblouse	H&M	20	Default	0.0	Blouse	Large	1 piece
+Store4	ZaraPants	H&M	23	Default	0.0	Blouse	Small	1 piece
+Store7	HpLaptopi6	Hp	44	Default	0.0	laptop 	i7	3
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store2	Gucci200ml	Gucci	9	Default	550.0	200
+Store3	EarringsVelvet	Velvet	18	Default	100.0	false	false	true	false
+Store4	H&Mblouse	H&M	20	Default	150.0	Blouse	Medium	1 piece
+Store7	LenovoLaptopi6	Lenovo	40	Default	5000.02	laptop 	i6	2
+Store5	FreshFridge1.5x2.5m2Doors	Fresh	29	Default	0.0	1.5x2.5m	-20.0	2
+Store6	FreshWM40KG	Fresh	39	Default	50000.0	70.0	40.0	FullAutomatic
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store4	Zarablouse	Zara	22	Default	500.0	Blouse	null	1 piece
+Store4	ZaraPants	H&M	23	Default	150.0	Blouse	Small	1 piece
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	CasioAnalog	Casio	1	Default	500.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store2	OneMillion100ml	OneMillion	4	Default	0.0	100
+Store3	AnkletALDO	Aldo	15	Default	0.0	false	false	false	true
+Store2	OneMillion100ml	One Million	4	Default	600.0	100
+Store2	Gucci100ml	Gucci	8	Default	500.0	100
+Store7	LenovoLaptopi6	Lenovo	40	Default	5000.02	laptop 	i6	2
+Store7	Iphone	Apple	45	Default	0.0	mobile	unspecified	1
+Store4	H&MPants	H&M	21	Default	250.0	Pants	Small	1 piece
+Store4	Zarablouse	Zara	22	Default	500.0	Blouse	null	1 piece
+Store7	LenovoLaptopi7	Lenovo	41	Default	6000.03	laptop 	i7	3
+Store7	LenovoLaptopi7	Lenovo	41	Default	6000.03	laptop 	i7	3
+Store7	Iphone	Iphone	45	Default	7000.01	mobile	unspecified	1
+Store4	Zarablouse	Zara	22	Default	500.0	Blouse	null	1 piece
+Store4	Zarablouse	Zara	22	Default	500.0	Blouse	null	1 piece
+Store7	Iphone	Iphone	45	Default	7000.01	mobile	unspecified	1
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store3	EarringsVelvet	Velvet	18	Default	100.0	false	false	true	false
+Store7	LenovoLaptopi7	Lenovo	41	Default	6000.03	laptop 	i7	3
+Store7	LenovoLaptopi6	Lenovo	40	Default	5000.02	laptop 	i6	2
+Store7	HpLaptopi6	Hp	43	Default	3000.02	laptop 	i6	2
+Store1	RolexAnalog	Rolex	0	Default	100000.0	Analog
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
+Store1	CasioDigital	Casio	3	Default	1000.0	Digital 
